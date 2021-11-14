@@ -1,14 +1,13 @@
-## Table of Contents
-1. Written by Bretton Yego
-2. helped by my friends
-
-### General Info
+## TITLE
+AKAN birthdates
+## Project information
 ***
-This project is about user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
-### Screenshot
+This project is about user's birthday and calculates the day of the week they were born and then depending on their gender outputs.
+### 
 
-## Technologies
-***
+## AUTHOR
+Written by Bretton Yego
+
 ## Installation
 ***
 
