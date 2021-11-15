@@ -3,6 +3,8 @@ body{
   background-position: cover;
   text-align: center;
   color: white;
+  font-family: sans-serif;
+ 
 
 }
 .akan {
@@ -14,4 +16,7 @@ body{
 }
 ul{
   list-style-type: none;
+}
+class .akan{
+  float: center;
 }
