@@ -1,6 +1,6 @@
 function calculate() {
-	var CC = document.getElementById("century").value;
 	var YY = document.getElementById("year").value;
+  var CC = document.getElementById("century").value;
 	var MM = document.getElementById("month").value;
 	var DD = document.getElementById("day").value;
 	var male = document.getElementById("male");
