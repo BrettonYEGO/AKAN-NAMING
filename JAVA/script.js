@@ -47,3 +47,8 @@ function calculate() {
     female.checked = false;
 
 }
+if (condition) {
+  
+} else {
+  
+}
